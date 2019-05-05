@@ -1,0 +1,14 @@
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\Weather_Report.exe.config
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\Weather_Report.exe
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\Weather_Report.pdb
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.csprojAssemblyReference.cache
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.csproj.CoreCompileInputs.cache
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.csproj.CopyComplete
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.exe
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.pdb
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.Form1.resources
+C:\Users\Babs Beats\source\repos\WebApi\Weather_Report\obj\Debug\Weather_Report.csproj.GenerateResource.cache
